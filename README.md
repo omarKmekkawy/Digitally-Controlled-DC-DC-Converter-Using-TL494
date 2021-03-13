@@ -5,6 +5,8 @@
 In this repository, I will design a digitally controlled DC-DC Buck converter using MCP41010 and TL494.
 
 ![alt text](https://github.com/rxtxinv/Digitally-Controlled-DC-DC-Converter-Using-TL494/blob/master/Pictures/IMG_20180531_232615.jpg)
+![alt text](https://github.com/rxtxinv/Digitally-Controlled-DC-DC-Converter-Using-TL494/blob/master/Pictures/IMG_20180531_232640.jpg)
+
 
 ### This project consists of 3 parts:
 * The [MCP41010 board](https://github.com/rxtxinv/Digitally-Controlled-DC-DC-Converter-Using-TL494/tree/master/The%20Boards/Digital%20POT%20V1) design using Proteus (Completed).
